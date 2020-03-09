@@ -1,6 +1,7 @@
 # Master's thesis: STM-feature-classificaton-ANN
 
 (Submitted and defended Jan 2020)
+
 Use of a fully convolutional network (FCN) to demonstrate the interest of CNN-based approaches to computer vision tasks that may arise in the context of STM/SPM (scanning tunneling/probe microscopies). We chose to implement a segmentation network for image segmentation. Here an FCN-8 is applied to small datasets (~10^1) of experimental STM images. While this demonstrates applicability of neural network-based computer vision to such data, larger datasets are needed to test generalizability.
 
 
